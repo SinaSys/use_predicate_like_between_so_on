@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="use_predicate_like_between_so_on/app" />
+      <module fileurl="file://$PROJECT_DIR$/use_predicate_like_between_so_on.iml" filepath="$PROJECT_DIR$/use_predicate_like_between_so_on.iml" group="use_predicate_like_between_so_on" />
+    </modules>
+  </component>
+</project>
